@@ -1,4 +1,4 @@
-# FastFood
+# Snackeroos
 Backend Project made using 
 1. Node JS
 2. Express JS
